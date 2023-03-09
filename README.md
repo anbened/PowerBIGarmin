@@ -74,7 +74,7 @@ Istruzioni:
 
 ![Selezione](../main/images/selezione.png)  
   
-- Sulla parte bassa dello strumento trovate le linguette (i "tab") che permettono di spostarsi tra un report e un altro  
+- Sulla parte bassa dello strumento sono presenti le linguette (i "tab") che permettono di spostarsi tra un report e un altro  
   
 ![Footer](../main/images/footer.png)  
 
