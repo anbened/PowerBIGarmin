@@ -18,7 +18,8 @@ Qui il download: https://www.microsoft.com/en-us/download/details.aspx?id=58494
 Power BI Desktop è un software di analisi dei dati che consente di creare report e dashboard interattivi. È progettato per integrarsi con una vasta gamma di origini dati, inclusi database, file di Excel e servizi cloud. In breve, Power BI Desktop è uno strumento facile e potente per costruire modelli dati, visualizzare e analizzare informazioni in modo intuitivo e significativo  
 
 ### Che cosa avviene "dietro le quinte"
-Il file che è stato realizzato per studiare i vostri dati e produrne le analisi si aspetta di lavorare in questo percorso: C:\PowerBIGarmin  
+Il file che è stato realizzato per studiare i vostri dati e produrne le analisi si aspetta di lavorare in questo percorso:   *C:\PowerBIGarmin*  
+  
 Quello che faremo sarà "scaricare" i dati dal sito Garmin per farli trovare allo strumento che potrà leggerli e produrne le analisi  
 Quindi, **per prima cosa**, è necessario creare sul proprio disco C una cartella chiamata "PowerBIGarmin"  
 Più in basso in questa pagina, nella sezione "Come poter fare le vostre analisi sui dati dei vostri allenamenti (= istruzioni)", trovate tutte le altre informazioni utili  
