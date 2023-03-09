@@ -26,7 +26,13 @@ Più in basso in questa pagina, nella sezione "Come poter fare le vostre analisi
 
 ## Info per tecnici (= per chi conosce Power BI)
 Il file ha, al momento, un'unica connessione verso il file CSV estratto dal portale (area riservata) di Garmin  
-Di default si aspetta di trovarlo nella directory *C:\PowerBIGarmin*, nessuno vieta (naturalmente), di modificare il puntamento a piacere ("Transform Data" - "Data source settings")
+Di default si aspetta di trovarlo nella directory *C:\PowerBIGarmin*, nessuno vieta (naturalmente), di modificare il puntamento a piacere ("Transform Data" - "Data source settings")  
+
+Al momento il modello dati costruito è molto semplice e consiste solo di due tabelle in relazione tra loro:
+- Garmin: entità che contiene i dati scaricati dal sito Garmin con l'aggiunta di alcune misure calcolate
+- dimDate: entità calendario, autocostruita, con un periodo dal 1/1/2022 al 31/12/2026
+
+![Modello dati](../main/images/modellodati.png)  
 
 ## Come poter fare le vostre analisi sui dati dei vostri allenamenti (= istruzioni)
 - scaricare il file PBIX da questo repository e memorizzarlo sul proprio PC, in una cartella dedicata (ad esempio: C:\PowerBIGarmin). Questo il file da scaricare: https://github.com/anbened/PowerBIGarmin/blob/main/file/PowerBIGarmin.pbix  
@@ -62,6 +68,11 @@ Istruzioni:
 - buone analisi!
 
 ## Esempi di analisi
+
+Al momento il lavoro consiste in cinque differenti report.  
+Ogni suggerimento per arricchire questo lavoro, per renderlo più utile e fruibile, per correggere errori e/o imprecisioni e ben accetto!  
+
+
 ### Report principale - Intro
 ![Report 1](../main/images/report1.png)
   
