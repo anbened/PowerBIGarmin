@@ -3,7 +3,15 @@
 ![Intro image](../main/images/intro.png)
 
 - [Introduzione](#Introduzione)
+- [Info per NON tecnici (per chi NON conosce Power BI)](#info-per-non-tecnici--per-chi-non-conosce-power-bi)
+- [Cosa è Power BI Desktop](#cosa-%C3%A8-power-bi-desktop)
+- [Che cosa avviene dietro le quinte](#che-cosa-avviene-dietro-le-quinte)
+- [Info per tecnici (per chi conosce Power BI)](#info-per-tecnici--per-chi-conosce-power-bi)
+- [Come poter fare le vostre analisi sui dati dei vostri allenamenti](#come-poter-fare-le-vostre-analisi-sui-dati-dei-vostri-allenamenti--istruzioni)
+- [Come utilizzare le analisi](#come-utilizzare-le-analisi)
+- [Esempi di analisi](#esempi-di-analisi)
   
+    
 # Introduzione
 Chi mi conosce sa perfettamente delle mie due principali passioni: i **dati** e la **corsa** (nello specifico le corse di lunghissima distanza in montagna: le **ultratrail**).  
 Da sempre traccio e memorizzo tutti i dati utili dei miei allenamenti ma, nel tempo, ho avuto la necessità di renderli più fruibili tramite analisi che rispondessero alle mie necessità di conoscenza.  
