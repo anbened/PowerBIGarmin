@@ -62,6 +62,11 @@ Istruzioni:
 - buone analisi!
 
 ## Esempi di analisi
+
+Al momento il lavoro consiste in cinque differenti report.  
+Ogni suggerimento per arricchire questo lavoro, per renderlo più utile e fruibile, per correggere errori e/o imprecisioni e ben accetto!  
+
+
 ### Report principale - Intro
 ![Report 1](../main/images/report1.png)
   
