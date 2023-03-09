@@ -67,6 +67,18 @@ Istruzioni:
 
 - buone analisi!
 
+## Come utilizzare le analisi
+
+- Come spiegato sopra, tramite il selettore delle date, è possibile scegliere il periodo di analisi che si vuole visualizzare  
+- Su ogni report è possibile selezionare un qualsiasi elemento visuale per potersi focalizzare sullo stesso. Nell'immagine, ad esempio, viene selezionata la voce "Trail Running" all'interno della visualizzazione delle "Calorie per Attività". Una volta cliccata la voce, tutti gli altri elementi del report vengono automaticamente filtrati per quella selezione (ad esempio, in alto, il "Num Allenamenti" rappresenta solo quelli fatti per il "Trail Running"). Cliccando la medesima voce il focus (il filtro) viene disabilitato e la visualizzazione ritorna per tutte le voci  
+
+![Selezione](../main/images/selezione.png)  
+  
+- Sulla parte bassa dello strumento trovate le linguette (i "tab") che permettono di spostarsi tra un report e un altro  
+  
+![Footer](../main/images/footer.png)  
+
+
 ## Esempi di analisi
 
 Al momento il lavoro consiste in cinque differenti report.  
