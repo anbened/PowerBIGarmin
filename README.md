@@ -24,7 +24,7 @@ Quindi, **per prima cosa**, è necessario creare sul proprio disco C una cartell
 Più in basso in questa pagina, nella sezione "Come fare le proprie analisi", trovate tutte le altre informazioni utili  
 
 ## Info per tecnici (= per chi conosce Power BI)
-Il file ha, al momento, un'unica connessione verso il file CSV estratto dal portale (area riservata) di Garmin
+Il file ha, al momento, un'unica connessione verso il file CSV estratto dal portale (area riservata) di Garmin  
 Di default si aspetta di trovarlo nella directory C:\PowerBIGarmin, nessuno vieta (naturalmente), di modificare il puntamento a piacere 
 
 ## Come poter fare le vostre analisi sui dati dei vostri allenamenti (= istruzioni)
