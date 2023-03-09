@@ -98,7 +98,7 @@ Istruzioni:
 ## Esempi di analisi
 
 Al momento il lavoro consiste in cinque differenti report.  
-Ogni suggerimento per arricchire questo lavoro, per renderlo più utile e fruibile, per correggere errori e/o imprecisioni e ben accetto!  
+Ogni suggerimento per arricchire questo lavoro, per renderlo più utile e fruibile, per correggere errori e/o imprecisioni è ben accetto!  
 
 
 ### Report principale - Intro
