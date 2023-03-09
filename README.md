@@ -54,6 +54,11 @@ Istruzioni:
   
 ![Refresh](../main/images/refresh.png)  
   
+- una volta caricati i vostri dati, selezionate in alto a sinistra (sul report che vedete a video), il periodo che volete analizzare (da quando... a quando)
+
+
+![Periodo](../main/images/periodo.png)  
+
 - buone analisi!
 
 ## Esempi di analisi
