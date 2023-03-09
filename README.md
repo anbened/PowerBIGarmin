@@ -10,6 +10,12 @@
   - [Come poter fare le vostre analisi sui dati dei vostri allenamenti](#come-poter-fare-le-vostre-analisi-sui-dati-dei-vostri-allenamenti--istruzioni)
   - [Come utilizzare le analisi](#come-utilizzare-le-analisi)
   - [Esempi di analisi](#esempi-di-analisi)
+    - [Report Principale Intro](#report-principale---intro)
+    - [Report Trend di allenamento](#analisi-trend-di-allenamento)
+    - [Report Analisi Mensile](#analisi-mensile)
+    - [Report Analisi Settimanale](#analisi-settimanale)
+    - [Report Analisi ore di allenamento](#analisi-ore-di-allenamento)
+
   
     
 # Introduzione
