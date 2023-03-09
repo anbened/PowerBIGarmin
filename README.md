@@ -2,6 +2,8 @@
 
 ![Intro image](../main/images/intro.png)
 
+- [Introduzione](#Introduzione)
+  
 # Introduzione
 Chi mi conosce sa perfettamente delle mie due principali passioni: i **dati** e la **corsa** (nello specifico le corse di lunghissima distanza in montagna: le **ultratrail**).  
 Da sempre traccio e memorizzo tutti i dati utili dei miei allenamenti ma, nel tempo, ho avuto la necessità di renderli più fruibili tramite analisi che rispondessero alle mie necessità di conoscenza.  
