@@ -11,7 +11,7 @@ Per questo motivo, in un paio di weekend, è nato questo progetto di analisi in 
 Il progetto (in costante evoluzione) è costituito, di fatto, da un solo file (estensione PBIX) che sfrutta i dati che possono essere scaricati dalla nostra area riservata Garmin: https://connect.garmin.com/modern/   
 
 ## Info per non tecnici (= per chi NON conosce Power BI)
-Le analisi vengono fatte tramite uno strumento, liberamente scaricabile e liberamente installabile, chiamato Power BI Desktop
+Le analisi vengono fatte tramite uno strumento, liberamente scaricabile e liberamente installabile, chiamato Power BI Desktop  
 Qui il download: https://www.microsoft.com/en-us/download/details.aspx?id=58494   
 
 ### Cosa è Power BI Desktop
