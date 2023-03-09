@@ -24,7 +24,7 @@ Da sempre traccio e memorizzo tutti i dati utili dei miei allenamenti ma, nel te
 E visto che quest'anno mi sono dato degli obiettivi ancora più ambiziosi, ho bisogno di vedere e capire - nel tempo - come e se sto progredendo.  
 Per questo motivo, in un paio di weekend, è nato questo progetto di analisi in **Power BI** sui dati che il mio **Garmin** memorizza e mette a disposizione (per essere precisi, io utilizzo un orologio *Fenix 6X Pro* con relativa fascia cardiaca *HRM-Pro*)  
   
-Il progetto (in costante evoluzione) è costituito, di fatto, da un solo file (estensione PBIX) che sfrutta i dati che possono essere scaricati dalla nostra area riservata Garmin: https://connect.garmin.com/modern/   
+Il progetto (in costante evoluzione) è costituito, di fatto, da un solo file (estensione PBIX) che sfrutta i dati che possono essere scaricati dall'area riservata Garmin: https://connect.garmin.com/modern/   
 
 ## Info per non tecnici (= per chi NON conosce Power BI)
 Le analisi vengono fatte tramite uno strumento, liberamente scaricabile e liberamente installabile, chiamato **Power BI Desktop**  
