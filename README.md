@@ -21,7 +21,7 @@ Power BI Desktop è un software di analisi dei dati che consente di creare repor
 Il file che è stato realizzato per studiare i vostri dati e produrne le analisi si aspetta di lavorare in questo percorso: C:\PowerBIGarmin  
 Quello che faremo sarà "scaricare" i dati dal sito Garmin per farli trovare allo strumento che potrà leggerli e produrne le analisi  
 Quindi, **per prima cosa**, è necessario creare sul proprio disco C una cartella chiamata "PowerBIGarmin"  
-Più in basso in questa pagina, nella sezione "Come fare le proprie analisi", trovate tutte le altre informazioni utili  
+Più in basso in questa pagina, nella sezione "Come poter fare le vostre analisi sui dati dei vostri allenamenti (= istruzioni)", trovate tutte le altre informazioni utili  
 
 ## Info per tecnici (= per chi conosce Power BI)
 Il file ha, al momento, un'unica connessione verso il file CSV estratto dal portale (area riservata) di Garmin  
