@@ -7,7 +7,7 @@
     - [Cosa è Power BI Desktop](#cosa-%C3%A8-power-bi-desktop)
     - [Che cosa avviene dietro le quinte](#che-cosa-avviene-dietro-le-quinte)
   - [Info per tecnici (per chi conosce Power BI)](#info-per-tecnici--per-chi-conosce-power-bi)
-  - [Come poter fare le vostre analisi sui dati dei vostri allenamenti](#come-poter-fare-le-vostre-analisi-sui-dati-dei-vostri-allenamenti--istruzioni)
+  - [ISTRUZIONI: Come poter fare le vostre analisi sui dati dei vostri allenamenti](#come-poter-fare-le-vostre-analisi-sui-dati-dei-vostri-allenamenti--istruzioni)
   - [Come utilizzare le analisi](#come-utilizzare-le-analisi)
   - [Esempi di analisi](#esempi-di-analisi)
     - [Report Principale Intro](#report-principale---intro)
