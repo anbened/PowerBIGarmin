@@ -26,7 +26,7 @@ Più in basso in questa pagina, nella sezione "Come poter fare le vostre analisi
 
 ## Info per tecnici (= per chi conosce Power BI)
 Il file ha, al momento, un'unica connessione verso il file CSV estratto dal portale (area riservata) di Garmin  
-Di default si aspetta di trovarlo nella directory C:\PowerBIGarmin, nessuno vieta (naturalmente), di modificare il puntamento a piacere 
+Di default si aspetta di trovarlo nella directory *C:\PowerBIGarmin*, nessuno vieta (naturalmente), di modificare il puntamento a piacere ("Transform Data" - "Data source settings")
 
 ## Come poter fare le vostre analisi sui dati dei vostri allenamenti (= istruzioni)
 - scaricare il file PBIX da questo repository e memorizzarlo sul proprio PC, in una cartella dedicata (ad esempio: C:\PowerBIGarmin). Questo il file da scaricare: https://github.com/anbened/PowerBIGarmin/blob/main/file/PowerBIGarmin.pbix  
