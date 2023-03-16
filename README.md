@@ -2,6 +2,10 @@
 
 ![Intro image](../main/images/intro.png)
 
+
+:point_right: **ATTENZIONE**: Tutte le modifiche al progetto, le correzioni più importanti, l'aggiunta di nuove funzionalità sono documentate [QUI](changelog.md) 	:point_left:  
+  
+
 - [Introduzione](#Introduzione)
   - [Info per NON tecnici (per chi NON conosce Power BI)](#info-per-non-tecnici--per-chi-non-conosce-power-bi)
     - [Cosa è Power BI Desktop](#cosa-%C3%A8-power-bi-desktop)
