@@ -1,6 +1,6 @@
 # Power BI & Garmin data
 
-:point_right: **ATTENZIONE**: Tutte le modifiche al progetto, le correzioni più importanti, l'aggiunta di nuove funzionalità sono documentate [QUI](CHANGELOG.md) 	:point_left:  
+:point_right: **ATTENZIONE**: modifiche al progetto, correzioni più importanti, aggiunta di nuove funzionalità sono documentate [QUI](CHANGELOG.md) 	:point_left:  
 
 :point_right: **ATTENZIONE**: Per fare domande, condividere idee, suggerire correzioni, ... [QUI](https://github.com/anbened/PowerBIGarmin/discussions) :point_left:  
   
