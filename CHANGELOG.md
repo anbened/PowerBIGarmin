@@ -13,7 +13,7 @@ Efficienza dell'allenamento: Calcola l'efficienza dell'allenamento dividendo le 
 ## 2023-03-18  
 
 ### Correzione grafico **Frequenza Cardiaca Media**  
-In giornate con più di un allenamento, il valore veniva espresso come somma delle frequenze cardiache medie (non aveva alcun senso)
+In giornate con più di un allenamento, il valore veniva espresso come somma delle frequenze cardiache medie (non aveva alcun senso)  
 Adesso, per ogni giornata, il valore espresso è il massimo valore tra i valori medi registrati negli allenamenti della giornata  
   
 Ad esempio, con dati simili a:  
