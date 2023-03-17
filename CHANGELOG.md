@@ -2,6 +2,14 @@
 
 Tutte le **modifiche al progetto**, le **correzioni** più importanti, l'aggiunta di **nuove funzionalità** sono documentate in questo file
 
+
+## 2023-03-19
+
+### Aggiunto nuovo elemento grafico su report Calorie
+
+Efficienza dell'allenamento: Calcola l'efficienza dell'allenamento dividendo le calorie bruciate per la durata dell'allenamento (in minuti). Questo fornisce un'idea di quante calorie vengono bruciate al minuto in ogni allenamento.  
+  
+  
 ## 2023-03-18  
 
 ### Correzione grafico **Frequenza Cardiaca Media**  
