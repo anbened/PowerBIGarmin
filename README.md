@@ -103,9 +103,9 @@ Istruzioni:
 
 ## Esempi di analisi
 
-Al momento il lavoro consiste in cinque differenti report.  
+Al momento il lavoro consiste in diversi report.  
 Ogni suggerimento per arricchire questo lavoro, per renderlo più utile e fruibile, per correggere errori e/o imprecisioni è ben accetto!  
-
+Alcuni esempi:  
 
 ### Report principale - Intro
 ![Report 1](../main/images/report1.png)
