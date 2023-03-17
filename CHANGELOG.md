@@ -21,8 +21,8 @@ Ad esempio, con dati simili a:
 17/03 ore 10:00 - 133 bpm  
 17/03 ore 15:00 - 142 bpm  
   
-Prima: FC media = 275 bpm  
-Adesso: FC media = 142 bpm  
+Prima: valore mostrato = 275 bpm  
+Adesso: valore mostrato = 142 bpm  
   
   
    
