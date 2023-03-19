@@ -2,18 +2,27 @@
 
 Tutte le **modifiche al progetto**, le **correzioni** più importanti, l'aggiunta di **nuove funzionalità** sono documentate in questo file
 
+
+## 2023-03-19
+
+### Aggiunto nuovo elemento grafico su report Calorie
+
+Efficienza dell'allenamento: Calcola l'efficienza dell'allenamento dividendo le calorie bruciate per la durata dell'allenamento (in minuti).  
+Questo fornisce un'idea di quante calorie vengono bruciate al minuto in ogni allenamento.  
+  
+  
 ## 2023-03-18  
 
 ### Correzione grafico **Frequenza Cardiaca Media**  
-In giornate con più di un allenamento, il valore veniva espresso come somma delle frequenze cardiache medie (non aveva alcun senso)
+In giornate con più di un allenamento, il valore veniva espresso come somma delle frequenze cardiache medie (non aveva alcun senso)  
 Adesso, per ogni giornata, il valore espresso è il massimo valore tra i valori medi registrati negli allenamenti della giornata  
   
 Ad esempio, con dati simili a:  
 17/03 ore 10:00 - 133 bpm  
 17/03 ore 15:00 - 142 bpm  
   
-Prima: FC media = 275 bpm  
-Adesso: FC media = 142 bpm  
+Prima: valore mostrato = 275 bpm  
+Adesso: valore mostrato = 142 bpm  
   
   
    
