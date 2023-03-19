@@ -3,6 +3,16 @@
 Tutte le **modifiche al progetto**, le **correzioni** più importanti, l'aggiunta di **nuove funzionalità** sono documentate in questo file
 
 
+## 2023-03-20  
+
+### Stato di Forma  
+Aggiunto il calcolo dello stato di forma tramite una media mobile del punteggio degli allenamenti degli ultimi 14 giorni  
+  
+  
+Insieme a questo è stsato aggiunta una misura calcolata che rappresenta lo stato di forma raggiunto ogni mese  
+Nel report iniziale è stato aggiunto un elemento grafico lineare per rappresentarla (grafico: "Stato di Forma - Andamento Mensile")  
+  
+  
 ## 2023-03-19
 
 ### Aggiunto nuovo elemento grafico su report Calorie
